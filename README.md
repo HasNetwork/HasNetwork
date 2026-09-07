@@ -8,7 +8,7 @@ Learning Engineering, one field at a time
 ![IIT Bhilai](https://img.shields.io/badge/ECE_@_IIT_BHILAI-'30-1C1812?style=for-the-badge&labelColor=1C1812&color=2387de)
 <!--![Open](https://img.shields.io/badge/OPEN_TO-WINTER_'26_INTERNSHIPS-B5532F?style=for-the-badge&labelColor=1C1812)-->
 
-[![LinkedIn](https://img.shields.io/badge/LINKEDIN-2387de?style=for-the-badge&logo=linkedin&logoColor=F7F1E5)](www.linkedin.com/in/harshiit-shah)
+[![LinkedIn](https://img.shields.io/badge/LINKEDIN-2387de?style=for-the-badge&logo=linkedin&logoColor=F7F1E5)](https://www.linkedin.com/in/harshiit-shah)
 
 </div>
 <!--
